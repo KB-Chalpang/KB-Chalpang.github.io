@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profilepic2.png"
+  avatar           : "images/profile.png"
   name             : "Kabiru Abubakari"
   pronouns         : # example: "He/Him"  
   bio              : "PhD student in Statistics at Queen Mary University of London"
